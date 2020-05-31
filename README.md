@@ -23,6 +23,11 @@ The README will be populated with the following:
   * User GitHub profile picture
   * User GitHub email
 
+
+<img width="1251" alt="Screen Shot 2020-05-31 at 6 50 39 PM" src="https://user-images.githubusercontent.com/56641651/83364952-f0d03e80-a372-11ea-8ef3-63f1a1f62ff7.png">
+
+
+
 Following the [common templates for user stories](https://en.wikipedia.org/wiki/User_story#Common_templates), we can frame this challenge as follows:
 
 ```
